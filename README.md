@@ -16,4 +16,8 @@ You will have hands-on experience building a serverless application using AWS La
 Additionally, you will have experience working with AWS services and integrating them to build a complete solution.
 
 This project will help you improve your skills in cloud computing, serverless architecture, and AWS services.
-THIS IS A AWS CERTIFIED CLOUD PRACTITONER
+THIS IS A AWS CERTIFIED CLOUD PRACTITONER.
+
+
+![Archiecture](https://github.com/r999m/serverless-web-application-on-AWS/assets/103409079/65844405-db8e-4971-90c0-c97a2e1f039d)
+
